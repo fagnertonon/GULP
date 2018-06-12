@@ -1,0 +1,14 @@
+{
+    "dependencies": {
+        "gulp-autoprefixer": "^5.0.0",
+        "gulp-eslint": "^4.0.2",
+        "gulp-jasmine-phantom": "^3.0.0",
+        "gulp-sass": "^4.0.1"
+       
+    },
+    "devDependencies": {
+        "browser-sync": "^2.24.4",
+        "gulp": "^3.9.1",
+        "phantomjs":"^2.1.7"
+    }
+}
